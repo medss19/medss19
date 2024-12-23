@@ -108,7 +108,7 @@ Hey there! I'm Medha, a passionate BTech CSE student with a deep interest in AI,
   <a href="https://www.linkedin.com/in/medha-agarwal-01b33725a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>
   <a href="mailto:medhaagarwal49@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="35"/></a>
   <a href="https://leetcode.com/medsss19" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="medsss19" height="35"/></a>
-  <a href="https://medium.com/@medhaagarwal49" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@medhaagarwal49" height="35"/></a>
+  <a href="https://medium.com/@medss19 target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@medss19" height="35"/></a>
 </p>
 
 ---
