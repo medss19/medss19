@@ -42,14 +42,14 @@ Hey there! I'm Medha, a passionate BTech CSE student with a deep interest in AI,
 │   └── Quantum Explorers, Qiskit Program 2022-23
 │
 ├── 🚀 Featured Projects
-│   ├── ToDo Web App - [GitHub](https://github.com/medss19/flask-todo)
-│   └── BrainAI - [GitHub](https://github.com/medss19/brainAI-IMD)
+│   ├── <a href="https://github.com/medss19/flask-todo">ToDo Web App</a>
+│   └── <a href="https://github.com/medss19/brainAI-IMD">BrainAI</a>
 │
 └── 💡 Interests
-├── AI/ML Research 🧠
-├── Competetive Programming 🏆
-├── Machine Learning Engineering 🔍
-└── Reading, Singing, Taekwondo, Athletics, Doodles..🦄
+    ├── AI/ML Research 🧠
+    ├── Competitive Programming 🏆
+    ├── Machine Learning Engineering 🔍
+    └── Reading, Singing, Taekwondo, Athletics, Doodles..🦄
 ```
 
 ---
