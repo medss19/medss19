@@ -42,8 +42,8 @@ Hey there! I'm Medha, a passionate BTech CSE student with a deep interest in AI,
 │   └── Quantum Explorers, Qiskit Program 2022-23
 │
 ├── 🚀 Featured Projects
-│   ├── ToDo Web App <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="22"/>
-│   └── BrainAI <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" height="22"/>
+│   ├── ToDo Web App - [GitHub](https://github.com/medss19/flask-todo)
+│   └── BrainAI - [GitHub](https://github.com/medss19/brainAI-IMD)
 │
 └── 💡 Interests
 ├── AI/ML Research 🧠
@@ -56,26 +56,43 @@ Hey there! I'm Medha, a passionate BTech CSE student with a deep interest in AI,
 
 <h2 align="left">
   <img src="assets/lang.gif" alt="logo" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  Languages and Tools
+  Languages and Tools I've worked with
 </h2>
 
 <br>
 
 <p align="left">
+  <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="35"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="35"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="35"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="35"/>
+  
+  <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" height="35"/>
   <img src="https://img.shields.io/badge/PyQt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt" height="35"/>
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" height="35"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" height="35"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" height="35"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" height="35"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" height="35"/>
+  
+  <!-- Web Scraping -->
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" height="35"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-43853D?style=for-the-badge&logo=python&logoColor=white" alt="BeautifulSoup" height="35"/>
+  
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="35"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" height="35"/>
+  
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="35"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" height="35"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="35"/>
+  
+  <!-- AI/ML Models -->
+  <img src="https://img.shields.io/badge/ResNet--50-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ResNet-50" height="35"/>
+  <img src="https://img.shields.io/badge/VGG--16-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="VGG-16" height="35"/>
 </p>
 
 ---
