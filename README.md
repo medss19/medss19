@@ -29,7 +29,7 @@ Hey there! I'm Medha, a passionate BTech CSE student with a deep interest in AI,
 🎯 Journey & Interests:
 ├── 🎓 Education
 │   └── BTech in CSE (AI/ML) @ Bennett University
-│   └── CGPA: 9.58 (Top 10% of Class)
+│   └── CGPA: 9.58 
 │
 ├── 💼 Experience
 │   ├── Backend Developer Intern @ Austere Systems
