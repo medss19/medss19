@@ -18,13 +18,10 @@ Hey there! I'm Medha, a passionate BTech CSE student with a deep interest in AI,
 
 <!-- Profile Visit Badge -->
 <p align="center">
-  <a href="https://github.com/medss19">
-    <img src="https://visitcount.itsvg.in/api?id=medss19&icon=3&color=6" alt="profile visit count" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=medss19" alt="Profile Views"/>
 </p>
 
 ---
-
 ```text
 🎯 Journey & Interests:
 ├── 🎓 Education
